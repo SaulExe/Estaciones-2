@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-justify: auto;
+    background-color: #4f4f4f;
+    background-size: auto;
+}
+h1 {
+    font-family: Roboto Light;
+    color: white;
+}
+
+
+.cls-1,.cls-5,.cls-7,.cls-8,.cls-9{fill:none;}
+.cls-2{fill:#4f4f4f;}
+.cls-3{opacity:0.05;}
+.cls-12,.cls-15,.cls-4,
+.cls-6{fill:#fff;}
+.cls-5{stroke:#c7c959;}
+.cls-10,
+.cls-11,.cls-13,.cls-14,.cls-17,.cls-5,.cls-6,.cls-7,.cls-8,
+.cls-9{stroke-miterlimit:10;}
+.cls-10,.cls-5,.cls-6,.cls-7,.cls-8,
+.cls-9{stroke-width:3px;}
+.cls-6,.cls-7{stroke:#dc2c2f;}
+.cls-8{stroke:#15417c;}
+.cls-10,.cls-11,.cls-13,.cls-14,.cls-17,
+.cls-9{stroke:#fff;}
+.cls-10,.cls-17{fill:#007e33;}
+.cls-11{fill:#dc2c2f;}
+.cls-11,.cls-13,.cls-14,
+.cls-17{stroke-width:2px;}
+.cls-12{font-size:28.79px;font-family:MyriadPro-Regular, Myriad Pro;}
+.cls-13{fill:#c7c959;}
+.cls-14{fill:#15417c;}
+.cls-15{font-size:14.1px;font-family:ArialMT, Arial;}
+.cls-16{letter-spacing:-0.04em;}.cls-18{opacity:0.75;}
+.cls-19{fill:#153e6b;}
+.cls-20{clip-path:url(#clip-path);}
+.cls-9{fill:#000000;}
+
+#Estaciones {
+    display: none;
+    width: 200px;
+    height: 100%;
+    background: #f5f5f5;
+    position: fixed;
+    top: 0;
+    left: 0;
+  }
+  
+  #Estaciones.open {
+    display: block;
+  }
